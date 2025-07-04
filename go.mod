@@ -3,7 +3,7 @@ module github.com/socle-framework/socle-installer
 go 1.24.0
 
 require (
-	github.com/danielkeho/crypto v0.0.0-20250528010612-b3a99eba412a
+	github.com/danielkeho/crypto v0.1.0
 	github.com/fatih/color v1.18.0
 	github.com/go-git/go-git/v5 v5.16.0
 	github.com/spf13/cobra v1.9.1
